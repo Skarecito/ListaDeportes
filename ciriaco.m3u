@@ -1,201 +1,299 @@
 #EXTM3U
-#EXTINF:-1,20:30 Fútbol - Segunda - Leganés vs CD Castellón [ES: LALIGA TV HYPERMOTION FHD --> New Loop]
+#EXTINF:-1,20:30 Fútbol - Segunda - Córdoba vs CD Tenerife [ES: LALIGA TV HYPERMOTION FHD --> New Loop]
 acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1,20:30 Fútbol - Segunda - Leganés vs CD Castellón [LaLiga TV Hypermotion 1080p * --> ELCANO]
+#EXTINF:-1,20:30 Fútbol - Segunda - Córdoba vs CD Tenerife [LaLiga TV Hypermotion 1080p * --> ELCANO]
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1,20:30 Fútbol - Segunda - Leganés vs CD Castellón [LaLiga TV Hypermotion 1080p ** --> ELCANO]
+#EXTINF:-1,20:30 Fútbol - Segunda - Córdoba vs CD Tenerife [LaLiga TV Hypermotion 1080p ** --> ELCANO]
 acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1,20:30 Fútbol - Segunda - Leganés vs CD Castellón [LaLiga TV Hypermotion 720p * --> ELCANO]
+#EXTINF:-1,20:30 Fútbol - Segunda - Córdoba vs CD Tenerife [LaLiga TV Hypermotion 720p * --> ELCANO]
 acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1,20:30 Fútbol - Segunda - Leganés vs CD Castellón [LaLiga TV Hypermotion 720p ** --> ELCANO]
+#EXTINF:-1,20:30 Fútbol - Segunda - Córdoba vs CD Tenerife [LaLiga TV Hypermotion 720p ** --> ELCANO]
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1,02:15 Fútbol Americano - NFL: Liga Regular - Chicago Bears vs Philadelphia Eagles [DAZN2 --> New Loop]
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1,02:15 Fútbol Americano - NFL: Liga Regular - Chicago Bears vs Philadelphia Eagles [DAZN 2 1080p * --> ELCANO]
-acestream://d60b8c154828cb990b7bb1570764b215bd979e74
-#EXTINF:-1,02:15 Fútbol Americano - NFL: Liga Regular - Chicago Bears vs Philadelphia Eagles [DAZN 2 1080p ** --> ELCANO]
-acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d
-#EXTINF:-1,02:15 Fútbol Americano - NFL: Liga Regular - Chicago Bears vs Philadelphia Eagles [DAZN 2 720p ** --> ELCANO]
-acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 2 - Ronda 2 [Eurosport 1 1080p * --> ELCANO]
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 2 - Ronda 2 [Eurosport 1 1080p ** --> ELCANO]
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 2 - Ronda 2 [Eurosport 1 720p * --> ELCANO]
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 2 - Ronda 2 [Eurosport 1 --> NEW ERA III]
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [MOVISTAR PLUS 1080p * --> ELCANO]
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [MOVISTAR PLUS 1080p ** --> ELCANO]
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [MOVISTAR PLUS 720p * --> ELCANO]
-acestream://d23497596720b47b096ec0f850d6d26a19d1a336
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [Movistar+ --> NEW ERA III]
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [M. Deportes HD --> New Loop]
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [M+ Deportes 1080p * --> ELCANO]
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [M+ Deportes 1080p * --> ELCANO]
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [M+ Deportes 720p * --> ELCANO]
-acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [M+ Deportes 720p * --> ELCANO]
-acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1,13:00 Tenis - Torneo de Chengdú: Final - H. Hurkacz vs A. Davidovich [Movistar Deportes --> NEW ERA III]
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M. Deportes 2 HD --> New Loop]
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M+ Deportes 2 1080p * --> ELCANO]
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M+ Deportes 2 1080p * --> ELCANO]
-acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M+ Deportes 2 1080p ** --> ELCANO]
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M+ Deportes 2 720p ** --> ELCANO]
-acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
-#EXTINF:-1,13:30 Tenis - Torneo de Hangzhou: Final - D. Medvedev vs A. Rublev [M+ Deportes 2 720p ** --> ELCANO]
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1,13:30 Snooker - Abierto de Shenzhen - Día 2 - Ronda 3 [Eurosport 1 1080p * --> ELCANO]
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1,13:30 Snooker - Abierto de Shenzhen - Día 2 - Ronda 3 [Eurosport 1 1080p ** --> ELCANO]
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1,13:30 Snooker - Abierto de Shenzhen - Día 2 - Ronda 3 [Eurosport 1 720p * --> ELCANO]
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1,13:30 Snooker - Abierto de Shenzhen - Día 2 - Ronda 3 [Eurosport 1 --> NEW ERA III]
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1,14:30 Balonmano - IHF Super Globe: Fase de grupos - Montada Derb Sultan vs Barça BM [Esport3 1080p * --> ELCANO]
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1,14:30 Balonmano - IHF Super Globe: Fase de grupos - Montada Derb Sultan vs Barça BM [Esport3 1080p ** --> ELCANO]
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1,14:30 Balonmano - IHF Super Globe: Fase de grupos - Montada Derb Sultan vs Barça BM [Esport3 720p * --> ELCANO]
-acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
-#EXTINF:-1,14:30 Balonmano - IHF Super Globe: Fase de grupos - Montada Derb Sultan vs Barça BM [Esport3 720p ** --> ELCANO]
-acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [Movistar Vamos 2 --> New Loop]
-acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 1080p ** --> ELCANO]
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 1080p ** --> ELCANO]
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 1080p ** --> ELCANO]
-acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 720p ** --> ELCANO]
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 720p ** --> ELCANO]
-acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [M+ Vamos 720p ** --> ELCANO]
-acestream://7a053fc56fc93f42ec656382408e647055110e3e
-#EXTINF:-1,18:00 Baloncesto - Euroliga: Liga Regular - Dubai Basketball vs Barça Basket [Vamos --> NEW ERA III]
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1,19:00 Baloncesto - Euroliga: Liga Regular - Anadolu Efes Istanbul vs Real Madrid Baloncesto [M+ Baloncesto 1080p * --> ELCANO]
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1,19:00 Baloncesto - Euroliga: Liga Regular - Anadolu Efes Istanbul vs Real Madrid Baloncesto [M+ Baloncesto 1080p ** --> ELCANO]
-acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - AX Olimpia Milano vs Virtus Bologna [M+ VAMOS 3 1080p ** --> ELCANO]
-acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - AX Olimpia Milano vs Virtus Bologna [M+ VAMOS 3 720p * --> ELCANO]
-acestream://837883625d40e1eb5566eefaf74811046491f53a
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - Valencia Basket vs Baskonia [MOVISTAR PLUS 1080p * --> ELCANO]
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - Valencia Basket vs Baskonia [MOVISTAR PLUS 1080p ** --> ELCANO]
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - Valencia Basket vs Baskonia [MOVISTAR PLUS 720p * --> ELCANO]
-acestream://d23497596720b47b096ec0f850d6d26a19d1a336
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - Valencia Basket vs Baskonia [Movistar+ --> NEW ERA III]
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1,20:30 Baloncesto - Euroliga: Liga Regular - Valencia Basket vs Baskonia [M+ Baloncesto 2 1080p * --> ELCANO]
-acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - España vs Croacia [La 1 --> New Loop]
-acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
-#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - España vs Croacia [LA 1 Spain --> New Loop]
-acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
-#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - España vs Croacia [La 1 TVE 4K ** --> ELCANO]
-acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
-#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - España vs Croacia [La 1 TVE 720p * --> ELCANO]
-acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-#EXTINF:-1,20:45 Baloncesto - Euroliga: Liga Regular - Paris Basketball vs BC Partizan Beograd [M+ Baloncesto 3 1080p * --> ELCANO]
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1,02:30 Baloncesto - WNBA: Playoffs - New York Liberty vs Minnesota Lynx [TELEDEPORTE Spain --> New Loop]
+#EXTINF:-1,22:45 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Chile [TELEDEPORTE Spain --> New Loop]
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1,02:30 Baloncesto - WNBA: Playoffs - New York Liberty vs Minnesota Lynx [Teledeporte 1080p * --> ELCANO]
+#EXTINF:-1,22:45 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Chile [Teledeporte 1080p * --> ELCANO]
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1,02:30 Baloncesto - WNBA: Playoffs - New York Liberty vs Minnesota Lynx [Teledeporte 1080p ** --> ELCANO]
+#EXTINF:-1,22:45 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Chile [Teledeporte 1080p ** --> ELCANO]
 acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1,02:30 Baloncesto - WNBA: Playoffs - New York Liberty vs Minnesota Lynx [Teledeporte 1080p ** --> ELCANO]
+#EXTINF:-1,22:45 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Chile [Teledeporte 1080p ** --> ELCANO]
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1,02:30 Baloncesto - WNBA: Playoffs - New York Liberty vs Minnesota Lynx [Teledeporte 720p ** --> ELCANO]
+#EXTINF:-1,22:45 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Chile [Teledeporte 720p ** --> ELCANO]
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1,05:05 Tenis - WTA Pekín - 1ª Ronda - WTA 1000 [Tennis Channel 1080p * --> ELCANO]
-acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1,05:05 Tenis - WTA Pekín - 1ª Ronda - WTA 1000 [Tennis Channel 1080p ** --> ELCANO]
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 3 - Tercera ronda [Eurosport 1 1080p * --> ELCANO]
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 3 - Tercera ronda [Eurosport 1 1080p ** --> ELCANO]
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 3 - Tercera ronda [Eurosport 1 720p * --> ELCANO]
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1,08:00 Snooker - Abierto de Shenzhen - Día 3 - Tercera ronda [Eurosport 1 --> NEW ERA III]
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [M. Deportes HD --> New Loop]
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [M+ Deportes 1080p * --> ELCANO]
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [M+ Deportes 1080p * --> ELCANO]
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [M+ Deportes 720p * --> ELCANO]
-acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [M+ Deportes 720p * --> ELCANO]
-acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1,11:45 Hípica - Las Carreras - Hipódromo de San Sebastián 30/09/2026 [Movistar Deportes --> NEW ERA III]
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1,18:45 Balonmano - EHF European League - Flensburg-Handewitt vs BM Granollers [Esport3 1080p * --> ELCANO]
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1,18:45 Balonmano - EHF European League - Flensburg-Handewitt vs BM Granollers [Esport3 1080p ** --> ELCANO]
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1,18:45 Balonmano - EHF European League - Flensburg-Handewitt vs BM Granollers [Esport3 720p * --> ELCANO]
-acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
-#EXTINF:-1,18:45 Balonmano - EHF European League - Flensburg-Handewitt vs BM Granollers [Esport3 720p ** --> ELCANO]
-acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Movistar Vamos 2 --> New Loop]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [Movistar Vamos 2 --> New Loop]
 acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 1080p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 1080p * --> ELCANO]
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 1080p ** --> ELCANO]
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 1080p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 1080p ** --> ELCANO]
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 1080p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 1080p ** --> ELCANO]
 acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 720p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 720p ** --> ELCANO]
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 720p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 720p ** --> ELCANO]
 acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [M+ Vamos 720p ** --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Vamos 720p ** --> ELCANO]
 acestream://7a053fc56fc93f42ec656382408e647055110e3e
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Vamos --> NEW ERA III]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [Vamos --> NEW ERA III]
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Esport3 1080p * --> ELCANO]
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M. Deportes HD --> New Loop]
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Deportes 1080p * --> ELCANO]
+acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Deportes 1080p * --> ELCANO]
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Deportes 720p * --> ELCANO]
+acestream://6e031aed136bf97d8667fcd5fc49c73256928281
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [M+ Deportes 720p * --> ELCANO]
+acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
+#EXTINF:-1,05:00 Tenis - Torneo de Pekín - Final - ATP 500 [Movistar Deportes --> NEW ERA III]
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1,05:05 Tenis - WTA Pekín - 1/8 de final - WTA 1000 [Tennis Channel 1080p * --> ELCANO]
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1,05:05 Tenis - WTA Pekín - 1/8 de final - WTA 1000 [Tennis Channel 1080p ** --> ELCANO]
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [MOVISTAR PLUS 1080p * --> ELCANO]
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [MOVISTAR PLUS 1080p ** --> ELCANO]
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [MOVISTAR PLUS 720p * --> ELCANO]
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [Movistar+ --> NEW ERA III]
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M. Deportes 2 HD --> New Loop]
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M+ Deportes 2 1080p * --> ELCANO]
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M+ Deportes 2 1080p * --> ELCANO]
+acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M+ Deportes 2 1080p ** --> ELCANO]
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M+ Deportes 2 720p ** --> ELCANO]
+acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
+#EXTINF:-1,11:00 Tenis - Torneo de Tokio - Final - ATP 500 [M+ Deportes 2 720p ** --> ELCANO]
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1,13:35 Ciclismo - Binche–Chimay–Binche - Carrera Femenina [Eurosport 1 1080p * --> ELCANO]
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1,13:35 Ciclismo - Binche–Chimay–Binche - Carrera Femenina [Eurosport 1 1080p ** --> ELCANO]
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1,13:35 Ciclismo - Binche–Chimay–Binche - Carrera Femenina [Eurosport 1 720p * --> ELCANO]
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1,13:35 Ciclismo - Binche–Chimay–Binche - Carrera Femenina [Eurosport 1 --> NEW ERA III]
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1,14:50 Ciclismo - Campeonato de Europa - Relevos mixtos [Eurosport 1 1080p * --> ELCANO]
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1,14:50 Ciclismo - Campeonato de Europa - Relevos mixtos [Eurosport 1 1080p ** --> ELCANO]
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1,14:50 Ciclismo - Campeonato de Europa - Relevos mixtos [Eurosport 1 720p * --> ELCANO]
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1,14:50 Ciclismo - Campeonato de Europa - Relevos mixtos [Eurosport 1 --> NEW ERA III]
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1,15:25 Ciclismo - Tre Valli Varesine - UCI Europe Tour [Eurosport 2 1080p ** --> ELCANO]
+acestream://c6180a86440004748e2abe34d6f31eed8a218a3a
+#EXTINF:-1,15:25 Ciclismo - Tre Valli Varesine - UCI Europe Tour [Eurosport 2 1080p ** --> ELCANO]
+acestream://3ebcfc00921a4a9307dec97e078f8dc12eee27e7
+#EXTINF:-1,15:25 Ciclismo - Tre Valli Varesine - UCI Europe Tour [Eurosport 2 720p ** --> ELCANO]
+acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
+#EXTINF:-1,15:25 Ciclismo - Tre Valli Varesine - UCI Europe Tour [Eurosport 2 (DETENIDO) --> NEW ERA III]
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [Movistar Vamos 2 --> New Loop]
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 1080p * --> ELCANO]
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 1080p ** --> ELCANO]
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 1080p ** --> ELCANO]
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 1080p ** --> ELCANO]
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 720p ** --> ELCANO]
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 720p ** --> ELCANO]
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [M+ Vamos 720p ** --> ELCANO]
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1,16:00 Fútbol - Amistoso - India vs Uruguay [Vamos --> NEW ERA III]
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1,19:00 Fútbol - Europeo Sub-21: Fase de Clasificación - España vs Rumanía [TELEDEPORTE Spain --> New Loop]
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1,19:00 Fútbol - Europeo Sub-21: Fase de Clasificación - España vs Rumanía [Teledeporte 1080p * --> ELCANO]
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1,19:00 Fútbol - Europeo Sub-21: Fase de Clasificación - España vs Rumanía [Teledeporte 1080p ** --> ELCANO]
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1,19:00 Fútbol - Europeo Sub-21: Fase de Clasificación - España vs Rumanía [Teledeporte 1080p ** --> ELCANO]
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1,19:00 Fútbol - Europeo Sub-21: Fase de Clasificación - España vs Rumanía [Teledeporte 720p ** --> ELCANO]
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [TELEDEPORTE Spain --> New Loop]
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Teledeporte 1080p * --> ELCANO]
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Teledeporte 1080p ** --> ELCANO]
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Teledeporte 1080p ** --> ELCANO]
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Teledeporte 720p ** --> ELCANO]
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Esport3 1080p * --> ELCANO]
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Esport3 1080p ** --> ELCANO]
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Esport3 1080p ** --> ELCANO]
 acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Esport3 720p * --> ELCANO]
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Esport3 720p * --> ELCANO]
 acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
-#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - PAOK Salónica vs Kids&Us Manresa [Esport3 720p ** --> ELCANO]
+#EXTINF:-1,20:30 Baloncesto - Champions: Liga Regular - Joventut Badalona vs Bnei Herzliya [Esport3 720p ** --> ELCANO]
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1,20:00 Baloncesto - Euroliga Fem.: Fase de Clasificación - Spar Girona vs Emlak Konut SK [Esport3 1080p * --> ELCANO]
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1,20:00 Baloncesto - Euroliga Fem.: Fase de Clasificación - Spar Girona vs Emlak Konut SK [Esport3 1080p ** --> ELCANO]
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1,20:00 Baloncesto - Euroliga Fem.: Fase de Clasificación - Spar Girona vs Emlak Konut SK [Esport3 720p * --> ELCANO]
-acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
-#EXTINF:-1,20:00 Baloncesto - Euroliga Fem.: Fase de Clasificación - Spar Girona vs Emlak Konut SK [Esport3 720p ** --> ELCANO]
-acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1,20:15 Baloncesto - Euroliga: Liga Regular - Panathinaikos BC vs ASVEL Lyon-Villeurbanne [M+ Baloncesto 3 1080p * --> ELCANO]
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - San Pablo Burgos vs Olimpija Ljubljana [M+ Baloncesto 2 1080p * --> ELCANO]
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [Movistar Vamos 2 --> New Loop]
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 1080p * --> ELCANO]
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 1080p ** --> ELCANO]
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 1080p ** --> ELCANO]
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 1080p ** --> ELCANO]
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 720p ** --> ELCANO]
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 720p ** --> ELCANO]
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [M+ Vamos 720p ** --> ELCANO]
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - London Lions vs La Laguna Tenerife [Vamos --> NEW ERA III]
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - Croacia vs España [La 1 --> New Loop]
+acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
+#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - Croacia vs España [LA 1 Spain --> New Loop]
+acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
+#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - Croacia vs España [La 1 TVE 1080p ** --> ELCANO]
+acestream://9707e15881a29adc795ebdc12862289860edd4ef
+#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - Croacia vs España [La 1 TVE 4K ** --> ELCANO]
+acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
+#EXTINF:-1,20:45 Fútbol - UEFA Nations League: Fase de grupos - Croacia vs España [La 1 TVE 720p * --> ELCANO]
+acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [MOVISTAR PLUS 1080p * --> ELCANO]
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [MOVISTAR PLUS 1080p ** --> ELCANO]
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [MOVISTAR PLUS 720p * --> ELCANO]
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [Movistar+ --> NEW ERA III]
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M. Liga de Campeones --> New Loop]
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M+ Liga de Campeones 1080p * --> ELCANO]
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M+ Liga de Campeones 1080p ** --> ELCANO]
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M+ Liga de Campeones 1080p ** --> ELCANO]
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M+ Liga de Campeones 720p * --> ELCANO]
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+#EXTINF:-1,01:00 Fútbol - Amistoso - Argentina vs Benín [M+ Liga de Campeones 720p ** --> ELCANO]
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1,01:00 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Argentina [TELEDEPORTE Spain --> New Loop]
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1,01:00 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Argentina [Teledeporte 1080p * --> ELCANO]
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1,01:00 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Argentina [Teledeporte 1080p ** --> ELCANO]
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1,01:00 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Argentina [Teledeporte 1080p ** --> ELCANO]
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1,01:00 Hockey Patines - Mundial Femenino: Fase de grupos - España vs Argentina [Teledeporte 720p ** --> ELCANO]
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [Movistar Vamos 2 --> New Loop]
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 1080p * --> ELCANO]
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 1080p ** --> ELCANO]
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 1080p ** --> ELCANO]
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 1080p ** --> ELCANO]
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 720p ** --> ELCANO]
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 720p ** --> ELCANO]
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Vamos 720p ** --> ELCANO]
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [Vamos --> NEW ERA III]
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M. Liga de Campeones 2 --> New Loop]
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Liga de Campeones 2 1080p * --> ELCANO]
+acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Liga de Campeones 2 1080p * --> ELCANO]
+acestream://bb26037a253866d341778181eff5c8637240d615
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Liga de Campeones 2 1080p ** --> ELCANO]
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Liga de Campeones 2 720p ** --> ELCANO]
+acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
+#EXTINF:-1,01:45 Fútbol - Amistoso - Colombia vs Perú [M+ Liga de Campeones 2 720p ** --> ELCANO]
+acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6
+#EXTINF:-1,05:05 Tenis - WTA Pekín - 1/4 de Final - WTA 1000 [Tennis Channel 1080p * --> ELCANO]
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1,05:05 Tenis - WTA Pekín - 1/4 de Final - WTA 1000 [Tennis Channel 1080p ** --> ELCANO]
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1,14:20 Ciclismo - Campeonato de Europa - Contrarreloj Femenina [Eurosport 1 1080p * --> ELCANO]
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1,14:20 Ciclismo - Campeonato de Europa - Contrarreloj Femenina [Eurosport 1 1080p ** --> ELCANO]
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1,14:20 Ciclismo - Campeonato de Europa - Contrarreloj Femenina [Eurosport 1 720p * --> ELCANO]
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1,14:20 Ciclismo - Campeonato de Europa - Contrarreloj Femenina [Eurosport 1 --> NEW ERA III]
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1,16:05 Ciclismo - Campeonato de Europa - Contrarreloj Masculina [Eurosport 1 1080p * --> ELCANO]
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1,16:05 Ciclismo - Campeonato de Europa - Contrarreloj Masculina [Eurosport 1 1080p ** --> ELCANO]
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1,16:05 Ciclismo - Campeonato de Europa - Contrarreloj Masculina [Eurosport 1 720p * --> ELCANO]
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1,16:05 Ciclismo - Campeonato de Europa - Contrarreloj Masculina [Eurosport 1 --> NEW ERA III]
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - Aris Thessaloniki BC vs San Pablo Burgos [M+ Baloncesto 2 1080p * --> ELCANO]
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1,21:00 Baloncesto - Eurocup: Liga Regular - La Laguna Tenerife vs Türk Telekom Ankara [M+ Baloncesto 1080p * --> ELCANO]
+#EXTINF:-1,19:00 Baloncesto - Eurocup: Liga Regular - Aris Thessaloniki BC vs San Pablo Burgos [M+ Baloncesto 2 1080p * --> ELCANO]
+acestream://c8c33b2673efe7f386790c5966643820578f3535
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [Movistar Vamos 2 --> New Loop]
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 1080p * --> ELCANO]
+acestream://6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 1080p ** --> ELCANO]
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 1080p ** --> ELCANO]
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 1080p ** --> ELCANO]
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 720p ** --> ELCANO]
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 720p ** --> ELCANO]
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [M+ Vamos 720p ** --> ELCANO]
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1,20:00 Baloncesto - Liga Fem.: Liga Regular - Valencia Basket vs Perfumerías Avenida [Vamos --> NEW ERA III]
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1,20:30 Fútbol - 1RFEF: Grupo 2 - FC Cartagena vs Real Murcia [RFEF TV 1080p * --> ELCANO]
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1,20:30 Fútbol - 1RFEF: Grupo 2 - FC Cartagena vs Real Murcia [RFEF TV 1080p * --> ELCANO]
+acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
+#EXTINF:-1,20:30 Fútbol - 1RFEF: Grupo 2 - FC Cartagena vs Real Murcia [RFEF TV 1080p ** --> ELCANO]
+acestream://854ff9c607101791346111cd2366a392c3b8c351
+#EXTINF:-1,20:30 Fútbol - 1RFEF: Grupo 2 - FC Cartagena vs Real Murcia [RFEF TV 1080p ** --> ELCANO]
+acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
+#EXTINF:-1,20:30 Fútbol - 1RFEF: Grupo 2 - FC Cartagena vs Real Murcia [1 Federacion (SOLO EVENTOS) --> NEW ERA III]
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [M+ Baloncesto 1080p * --> ELCANO]
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1,21:00 Baloncesto - Eurocup: Liga Regular - La Laguna Tenerife vs Türk Telekom Ankara [M+ Baloncesto 1080p ** --> ELCANO]
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [M+ Baloncesto 1080p ** --> ELCANO]
 acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [Esport3 1080p * --> ELCANO]
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [Esport3 1080p ** --> ELCANO]
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [Esport3 720p * --> ELCANO]
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1,20:30 Baloncesto - Eurocup: Liga Regular - Kids&Us Manresa vs Ratiopharm Ulm [Esport3 720p ** --> ELCANO]
+acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+#EXTINF:-1,20:45 Baloncesto - Euroliga: Liga Regular - Paris Basketball vs ASVEL Lyon-Villeurbanne [M+ Baloncesto 3 1080p * --> ELCANO]
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
